@@ -1,6 +1,6 @@
 
 # 🌟 Welcome to My Groovy Profile! 🎸
-<img src="blob:https://imgur.com/e3b84e46-21eb-4868-af6e-c0470c762dcf" align="right" width="10%"></a>
+<img src="https://i.imgur.com/MjJeGhz.jpg" align="right" width="10%"></a>
 I'm delighted to have you here. Currently, I'm immersed in studying and working on diverse projects. Within this account, you'll have the opportunity to explore:
 
 - **Lab Works**: Discover my scientific experiments and research endeavors. 🔬
