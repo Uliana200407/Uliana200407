@@ -14,14 +14,4 @@ I hope you find value and inspiration in exploring my work. Your feedback is inv
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uliana200407&show_icons=true&title_color=6e40c9&icon_color=6e40c9&text_color=9f9f9f&bg_color=151515)
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Uliana200407&show_icons=true&theme=cobalt"
-    media="(prefers-color-scheme: cobalt)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Uliana200407&show_icons=true"
-    media="(prefers-color-scheme: merko), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Uliana200407&show_icons=true" />
-</picture>
+
