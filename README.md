@@ -12,12 +12,12 @@ I hope you find value and inspiration in exploring my work. Your feedback is inv
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliana200407&layout=donut)](https://github.com/Uliana200407/github-readme-stats)
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Uliana200407&show_icons=true&theme=cobalt"
+    media="(prefers-color-scheme: cobalt)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Uliana200407&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uliana200407&show_icons=true" />
 </picture>
