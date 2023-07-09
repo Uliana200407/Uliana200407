@@ -1,7 +1,6 @@
 
 # 🌟 Welcome to My Groovy Profile! 🎸
-![IMG_6945](https://github.com/Uliana200407/Uliana200407/blob/main/assets/114984015/7cb41b01-316e-44df-9866-3efe4ce1d472.jpg)
-
+<img src="blob:https://imgur.com/e3b84e46-21eb-4868-af6e-c0470c762dcf" align="right" width="10%"></a>
 I'm delighted to have you here. Currently, I'm immersed in studying and working on diverse projects. Within this account, you'll have the opportunity to explore:
 
 - **Lab Works**: Discover my scientific experiments and research endeavors. 🔬
