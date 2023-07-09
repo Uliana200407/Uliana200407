@@ -3,7 +3,7 @@
 I'm delighted to have you here. Currently, I'm immersed in studying and working on diverse projects. Within this account, you'll have the opportunity to explore:
 
 - **Lab Works**: Discover my scientific experiments and research endeavors. 🔬
-- **Pet Projects**: Experience my creative and personal undertakings that will get you grooving to the beats of innovation and inspiration. 💡
+- **Pet Projects**: Experience my creative and personal undertakings. 💡
 - **Coursework**: Dive into my academic pursuits and coursework achievements. 🎓
 - **Experimental Creations**: Brace yourself for unconventional and boundary-pushing projects. ⚡️
 
