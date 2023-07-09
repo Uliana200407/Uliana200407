@@ -10,6 +10,7 @@ I'm delighted to have you here. Currently, I'm immersed in studying and working 
 I hope you find value and inspiration in exploring my work. Your feedback is invaluable to me, so please feel free to share your thoughts. Thank you for visiting, and let's connect and learn together! 🎶✨
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uliana200407&layout=compact&title_color=FFA500&icon_color=008000&text_color=000000&bg_color=ffffff" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Uliana200407&show_icons=true&title_color=FFA500&icon_color=008000&text_color=000000&bg_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uliana200407&layout=compact&title_color=FFA500&icon_color=008000&text_color=000000&bg_color=ffffff" alt="Top Languages" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uliana200407&show_icons=true&title_color=FFA500&icon_color=008000&text_color=000000&bg_color=ffffff" alt="GitHub Stats" style="height: 200px;" />
 </div>
+
