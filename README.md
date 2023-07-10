@@ -11,6 +11,6 @@ I'm delighted to have you here. Currently, I'm immersed in studying and working 
 
 I hope you find value and inspiration in exploring my work. Your feedback is invaluable to me, so please feel free to share your thoughts. Thank you for visiting, and let's connect and learn together! 🎶✨
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,c,py,mysql,mongo,cpp,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,c,py,mysql,mongo,cpp,firebase,figma&theme=light)](https://skillicons.dev)
 
 
