@@ -13,4 +13,5 @@ I hope you find value and inspiration in exploring my work. Your feedback is inv
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,c,py,qt,mysql,mongo,cpp,firebase,maven,figma&theme=light)](https://skillicons.dev)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uliana200407&theme=swift)
 
