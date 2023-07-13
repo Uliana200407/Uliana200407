@@ -11,7 +11,7 @@ I'm delighted to have you here. Currently, I'm immersed in studying and working 
 
 I hope you find value and inspiration in exploring my work. Your feedback is invaluable to me, so please feel free to share your thoughts. Thank you for visiting, and let's connect and learn together! 🎶✨
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,c,py,postman,qt,mysql,mongo,cpp,firebase,maven,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,c,py,postman,swift,qt,mysql,mongo,cpp,firebase,maven,figma&theme=light)](https://skillicons.dev)
 ## Github statistics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uliana200407&theme=swift)
 
