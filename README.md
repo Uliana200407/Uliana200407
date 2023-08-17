@@ -4,6 +4,7 @@ Creative, broad-minded, sociable, hard-working, and also flexible - the words th
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,c,py,postman,swift,qt,mysql,mongo,cpp,firebase,maven,figma&theme=light)](https://skillicons.dev)
 ## Github statistics:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uliana200407&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uliana200407&theme=slateorange)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliana200407&langs_count=10&hide_border=true&theme=vision-friendly-dark)](https://github.com/Uliana200407/github-readme-stats)
