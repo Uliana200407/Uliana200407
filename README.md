@@ -5,7 +5,8 @@ Creative, broad-minded, sociable, hard-working, and also flexible - the words th
 You can find here:
 |  | Lab Works | Pet Projects | Coursework | Experimental Creations |
 |---|---|---|---|---|
-|   | ![Lab Works](lab_works_image.jpg) | ![Pet Projects](pet_projects_image.jpg) | ![Coursework](coursework_image.jpg) | ![Experimental Creations](experimental_creations_image.jpg) |
+|Logo| ![Pet Projects](<a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.icons8.com/?size=512&id=24465&format=png" align="center" width="10%"></a>
+) | ![Pet Projects](pet_projects_image.jpg) | ![Coursework](coursework_image.jpg) | ![Experimental Creations](experimental_creations_image.jpg) |
 | Description | Discover my scientific experiments and research endeavors. 🔬 | Experience my creative and personal undertakings. 💡 | Dive into my academic pursuits and coursework achievements. 🎓 | Brace yourself for unconventional and boundary-pushing projects. ⚡️ |
 |   |   |   |   |   |
 
