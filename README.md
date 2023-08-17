@@ -1,12 +1,13 @@
-# 🌟 Welcome to My Profile! 🎸
-<img src="https://i.imgur.com/X1jZXoP.jpg" align="right" width="100" style="border-radius: 50%;" />
+# _Andreieva Uliana_
 
-My name is Uliana and I'm delighted to have you here. Currently, I'm immersed in studying and working on diverse projects. Within this account, you'll have the opportunity to explore:
+Creative, broad-minded, sociable, hard-working, and also flexible - the words that are fully suitable to introduce me. I'm a passionate student who is striving to develop myself in a great variety of ways. So, here you will be able to dive into my world of imagination, get acquainted with me and my personal works.
 
-- **Lab Works**: Discover my scientific experiments and research endeavors. 🔬
-- **Pet Projects**: Experience my creative and personal undertakings. 💡
-- **Coursework**: Dive into my academic pursuits and coursework achievements. 🎓
-- **Experimental Creations**: Brace yourself for unconventional and boundary-pushing projects. ⚡️
+You can find here:
+|  | Lab Works | Pet Projects | Coursework | Experimental Creations |
+|---|---|---|---|---|
+|   | ![Lab Works](lab_works_image.jpg) | ![Pet Projects](pet_projects_image.jpg) | ![Coursework](coursework_image.jpg) | ![Experimental Creations](experimental_creations_image.jpg) |
+| Description | Discover my scientific experiments and research endeavors. 🔬 | Experience my creative and personal undertakings. 💡 | Dive into my academic pursuits and coursework achievements. 🎓 | Brace yourself for unconventional and boundary-pushing projects. ⚡️ |
+|   |   |   |   |   |
 
 I hope you find value and inspiration in exploring my work. Your feedback is invaluable to me, so please feel free to share your thoughts. Thank you for visiting, and let's connect and learn together! 🎶✨
 ## Languages and Tools:
