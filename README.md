@@ -1,4 +1,5 @@
 # _Andreieva Uliana_
+<img src="https://komarev.com/ghpvc/?username=Uliana200407&color=green" alt="Profile Views">
 
 Creative, broad-minded, sociable, hard-working, and also flexible - the words that are fully suitable to introduce me. I'm a passionate student who is striving to develop myself in a great variety of ways. So, here you will be able to dive into my world of imagination, get acquainted with me and my personal works.I hope you find value and inspiration in exploring my work. Your feedback is invaluable to me, so please feel free to share your thoughts. Thank you for visiting, and let's connect and learn together!✨
 ## Languages and Tools:
